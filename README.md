@@ -82,15 +82,15 @@ endmodule
 ````
  
 **Logic symbol & Truthtable**
-![image](https://github.com/23006823/study-of-basic-gates/assets/138971409/7115942d-8324-435d-a1c6-f06ff17d2119)
+![image](https://github.com/23006823/study-of-basic-gates/assets/138971409/6dc88b9a-afd7-4346-825e-da489a73e28e)
 
 
 **RTL realization Output:** 
-![image](https://github.com/23006823/study-of-basic-gates/assets/138971409/b9a8f8b1-4fc7-4099-9dac-517f3325ac03)
+![image](https://github.com/23006823/study-of-basic-gates/assets/138971409/600475e2-91b5-4548-849f-1a4f77f9b519)
 
 
 **RTL**
-![image](https://github.com/23006823/study-of-basic-gates/assets/138971409/0087fbfe-1b10-482d-9565-1a367917682f)
+![image](https://github.com/23006823/study-of-basic-gates/assets/138971409/ebaf20a2-2309-4c5b-92e2-d00fef62ff81)
 
 
 **Result:**
