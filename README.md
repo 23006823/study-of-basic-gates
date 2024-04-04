@@ -90,7 +90,7 @@ endmodule
 
 
 **RTL**
-![image](https://github.com/23006823/study-of-basic-gates/assets/138971409/ebaf20a2-2309-4c5b-92e2-d00fef62ff81)
+![WhatsApp Image 2024-04-04 at 09 44 59_50a9e642](https://github.com/23006823/study-of-basic-gates/assets/138971409/2d0b9d25-d7f7-4a4f-a631-b91847e1abfc)
 
 
 **Result:**
